@@ -2,7 +2,7 @@
 const express = require("express");
 
 // Internal  exports
-const {}  = require("");
+const {} = require("");
 
 const router = express.Router();
 
